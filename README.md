@@ -1,5 +1,5 @@
 # Gericht-Restaurant
-### [Live Site](https://divyansh956.github.io/Gericht-Restaurant/)
+### [Live Site](https://garicht-restaurant.vercel.app/)
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
